@@ -5,7 +5,7 @@
 const { app, BrowserWindow } = require('electron');
 const path = require('path');
 const url = require('url');
-const DiscordRPC = require('../');
+const DiscordRPC = require('..9/');
 
 let mainWindow;
 
